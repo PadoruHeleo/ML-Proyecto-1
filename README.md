@@ -17,6 +17,7 @@ Se entrenaron una variedad modelos para la predicción del GRD y se comparó su 
 - GRU
 - LSTM
 - GRU+MLP Secuencial/Cascada
+  
 Todos estos modelos utilizan embeddings.
 
 ## Integrantes e Información Curso
@@ -24,4 +25,5 @@ Todos estos modelos utilizan embeddings.
 - Eliam Rivas
 - Vicente Pobelete
 - Manuel Vidal
+
 NRC: 8229
